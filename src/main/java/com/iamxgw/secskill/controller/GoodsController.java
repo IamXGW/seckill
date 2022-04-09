@@ -148,3 +148,4 @@ public class GoodsController {
         return Result.success(goodsDetailVo);
     }
 }
+
